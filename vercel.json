@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/customer",
+      "destination": "https://script.google.com/macros/s/AKfycbwrTkVTeUgRWJl8d8qozzilSbonaXUBdOFLdCJ52iVr9S0ee5MHmsh098LRn3Mrb9fs/exec?page=customer"
+    },
+    {
+      "source": "/admin",
+      "destination": "https://script.google.com/macros/s/AKfycbwrTkVTeUgRWJl8d8qozzilSbonaXUBdOFLdCJ52iVr9S0ee5MHmsh098LRn3Mrb9fs/exec?page=admin"
+    }
+  ]
+}
